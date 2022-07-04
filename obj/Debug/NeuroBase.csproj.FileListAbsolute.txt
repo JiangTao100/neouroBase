@@ -1,0 +1,86 @@
+d:\documents\visual studio 2015\Projects\NeuroBase\NeuroBase\bin\Debug\NeuroBase.exe.config
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\bin\Debug\NeuroBase.exe
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\bin\Debug\NeuroBase.pdb
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.exe
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.pdb
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.MainForm.resources
+D:\Documents\Visual Studio 2015\Projects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.VisualSetting.resources
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\bin\Debug\NeuroBase.exe.config
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\bin\Debug\NeuroBase.exe
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\bin\Debug\NeuroBase.pdb
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.MainForm.resources
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.Properties.Resources.resources
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.VisualSetting.resources
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.csproj.GenerateResource.Cache
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.csproj.CoreCompileInputs.cache
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.exe
+E:\WorkShop\VSProjects\NeuroBase\NeuroBase\obj\Debug\NeuroBase.pdb
+E:\NeuroBase\bin\Debug\NeuroBase.exe.config
+E:\NeuroBase\bin\Debug\NeuroBase.exe
+E:\NeuroBase\bin\Debug\NeuroBase.pdb
+E:\NeuroBase\obj\Debug\NeuroBase.csprojAssemblyReference.cache
+E:\NeuroBase\obj\Debug\NeuroBase.MainForm.resources
+E:\NeuroBase\obj\Debug\NeuroBase.Properties.Resources.resources
+E:\NeuroBase\obj\Debug\NeuroBase.VisualSetting.resources
+E:\NeuroBase\obj\Debug\NeuroBase.csproj.GenerateResource.cache
+E:\NeuroBase\obj\Debug\NeuroBase.csproj.CoreCompileInputs.cache
+E:\NeuroBase\obj\Debug\NeuroBase.csproj.CopyComplete
+E:\NeuroBase\obj\Debug\NeuroBase.exe
+E:\NeuroBase\obj\Debug\NeuroBase.pdb
+D:\NeuroBase\bin\Debug\NeuroBase.exe.config
+D:\NeuroBase\bin\Debug\NeuroBase.exe
+D:\NeuroBase\bin\Debug\NeuroBase.pdb
+D:\NeuroBase\obj\Debug\NeuroBase.csprojAssemblyReference.cache
+D:\NeuroBase\obj\Debug\NeuroBase.exe.config
+D:\NeuroBase\obj\Debug\NeuroBase.MainForm.resources
+D:\NeuroBase\obj\Debug\NeuroBase.Properties.Resources.resources
+D:\NeuroBase\obj\Debug\NeuroBase.VisualSetting.resources
+D:\NeuroBase\obj\Debug\NeuroBase.csproj.GenerateResource.cache
+D:\NeuroBase\obj\Debug\NeuroBase.csproj.CoreCompileInputs.cache
+D:\NeuroBase\obj\Debug\NeuroBase.csproj.CopyComplete
+D:\NeuroBase\obj\Debug\NeuroBase.exe
+D:\NeuroBase\obj\Debug\NeuroBase.pdb
+G:\NeuroBase\bin\Debug\NeuroBase.exe.config
+G:\NeuroBase\bin\Debug\NeuroBase.exe
+G:\NeuroBase\bin\Debug\NeuroBase.pdb
+G:\NeuroBase\obj\Debug\NeuroBase.csprojAssemblyReference.cache
+G:\NeuroBase\obj\Debug\NeuroBase.exe.config
+G:\NeuroBase\obj\Debug\NeuroBase.MainForm.resources
+G:\NeuroBase\obj\Debug\NeuroBase.Properties.Resources.resources
+G:\NeuroBase\obj\Debug\NeuroBase.VisualSetting.resources
+G:\NeuroBase\obj\Debug\NeuroBase.csproj.GenerateResource.cache
+G:\NeuroBase\obj\Debug\NeuroBase.csproj.CoreCompileInputs.cache
+G:\NeuroBase\obj\Debug\NeuroBase.csproj.CopyComplete
+G:\NeuroBase\obj\Debug\NeuroBase.exe
+G:\NeuroBase\obj\Debug\NeuroBase.pdb
+D:\liupengxiao\NeuroBase\bin\Debug\NeuroBase.exe.config
+D:\liupengxiao\NeuroBase\bin\Debug\NeuroBase.exe
+D:\liupengxiao\NeuroBase\bin\Debug\NeuroBase.pdb
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.csprojAssemblyReference.cache
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.exe.config
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.MainForm.resources
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.Properties.Resources.resources
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.VisualSetting.resources
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.csproj.GenerateResource.cache
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.csproj.CoreCompileInputs.cache
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.csproj.CopyComplete
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.exe
+D:\liupengxiao\NeuroBase\obj\Debug\NeuroBase.pdb
+F:\刘鹏霄\NeuroBase\bin\Debug\NeuroBase.exe.config
+F:\刘鹏霄\NeuroBase\bin\Debug\NeuroBase.exe
+F:\刘鹏霄\NeuroBase\bin\Debug\NeuroBase.pdb
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.csprojAssemblyReference.cache
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.exe.config
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.MainForm.resources
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.Properties.Resources.resources
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.VisualSetting.resources
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.csproj.GenerateResource.cache
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.csproj.CoreCompileInputs.cache
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.csproj.CopyComplete
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.exe
+F:\刘鹏霄\NeuroBase\obj\Debug\NeuroBase.pdb
+F:\刘鹏霄\NeuroBase\bin\Debug\MWArray.dll
+F:\刘鹏霄\NeuroBase\bin\Debug\MWArray.xml

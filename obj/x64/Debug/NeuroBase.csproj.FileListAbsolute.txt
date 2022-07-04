@@ -1,0 +1,17 @@
+D:\NeuroBase\bin\x64\Debug\NeuroBase.exe.config
+D:\NeuroBase\bin\x64\Debug\NeuroBase.exe
+D:\NeuroBase\bin\x64\Debug\NeuroBase.pdb
+D:\NeuroBase\bin\x64\Debug\FBCCATool.dll
+D:\NeuroBase\bin\x64\Debug\xTRCA.dll
+D:\NeuroBase\bin\x64\Debug\xTRCA_Eye_merge.dll
+D:\NeuroBase\obj\x64\Debug\NeuroBase.exe.config
+D:\NeuroBase\obj\x64\Debug\NeuroBase.MainForm.resources
+D:\NeuroBase\obj\x64\Debug\NeuroBase.Properties.Resources.resources
+D:\NeuroBase\obj\x64\Debug\NeuroBase.VisualSetting.resources
+D:\NeuroBase\obj\x64\Debug\NeuroBase.csproj.GenerateResource.cache
+D:\NeuroBase\obj\x64\Debug\NeuroBase.csproj.CoreCompileInputs.cache
+D:\NeuroBase\obj\x64\Debug\NeuroBase.csproj.CopyComplete
+D:\NeuroBase\obj\x64\Debug\NeuroBase.exe
+D:\NeuroBase\obj\x64\Debug\NeuroBase.pdb
+D:\NeuroBase\bin\x64\Debug\MWArray.dll
+D:\NeuroBase\obj\x64\Debug\NeuroBase.csproj.AssemblyReference.cache
